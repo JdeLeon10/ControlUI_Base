@@ -8,3 +8,5 @@ Ingenieria de Software
 Develop : Jeremy de León
 
 Universidad Mariano Galvez
+
+Actualización README entrega de laboratorio Github Actions / Abril 13
